@@ -26,6 +26,5 @@
 ● B2B e B2C
 ● Seller/Admin, Marketplace/Admin, Marketplace/Front
 ● Mobile (Android e iPhone), Desktop e Web (Emuladores)
-
 ● Acadêmica do curso técnico em Análise e Desenvolvimento de Sistemas, desde Junho/2021.
 ● Muito focada e crescendo em JAVA, mas principalmente em Python agora.
