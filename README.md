@@ -4,7 +4,6 @@
 - 🌱 Estudando Python e automação Web
 - 💬 Contate-me no e-mail: leude.roure@gmail.com
 
-● Experiências:
 
  - Experiência com a Metodologia Ágil, 
  - Conhecimento na utilização e aplicação do Scrum e Kanban 
