@@ -1,7 +1,8 @@
 ### Olá, sou a Leude👋
 
 - 🔭 Hoje trabalho como QA - desde Agosto de 2021
-- 🌱 Estudando Python e automação Web
+- 🌱 Estudando Python, HTML e JavaScript 
+-    Automação e2e em Cypress
 - 💬 Contate-me no e-mail: leude.roure@gmail.com
 
 _____________________________________________
