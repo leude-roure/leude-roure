@@ -1,32 +1,35 @@
 ### Olá, sou a Leude👋
 
-- 🔭 Hoje atuo como Scrum Mastr  e trabalho em TI desdhe Agosto de 2021
-- 🌱 Estudando Python, HTML e JavaScript 
--    Automação e2e em Cypress
-- 💬 Contate-me no e-mail: leude.roure@gmail.com
+- 🔭 Hoje atuo como Scrum Mastr  e trabalho em TI desde Agosto de 2021
+- 🌱  Linguagens  Python, HTML e JavaScript 
+-  MBA  Gestão Ágil de Projetos e Agile Coach
+
+-• Facilitação dos ritos do Scrum (Planning, Daily, Review, Retrospectiva, Refinamento)
+• Facilitação de retrospectivas com foco na melhoria contínua no desenvolvimento;
+• Treinamento/Coach, promoção de Worshop e vivência de práticas e valores Scrum;
+• Facilitação do processo ágil do Scrum team (cerimônias, artefatos e métricas);
+• Maximização do valor e trabalho em equipe (team_building ); 
+• Management 3.0 aplicada no dia a dia (aumento da interação e conexão equipe, empoderados, energizados, segurança pscicológica...);
+• Gestão, monitoramento e divulgação de métricas (CFD, Lead Time, Burndowns, Burnups, etc)
+• Atuação em parceria para melhoria do DoR e DoD;
+• Gestão e melhoria de processos; 
+• Leadership Communication. CNV, Mediação de conflitos, Técnicas de facilitação,
+• Prática de feedback WRAP,
+• Priorização naquilo gera mais valor para o cliente/stakeholders.
+-    Automação e2e em Cypress• Facilitação dos ritos do Scrum (Planning, Daily, Review, Retrospectiva, Refinamento);
+• Facilitação de retrospectivas com foco na melhoria contínua no desenvolvimento;
+• Treinamento/Coach, promoção de Worshop e vivência de práticas e valores Scrum;
+• Facilitação do processo ágil do Scrum team (cerimônias, artefatos e métricas);
+• Maximização do valor e trabalho em equipe (team_building ); 
+• Management 3.0 aplicada no dia a dia (aumento da interação e conexão equipe, empoderados, energizados, segurança pscicológica...);
+• Gestão, monitoramento e divulgação de métricas (CFD, Lead Time, Burndowns, Burnups, etc)
+• Atuação em parceria para melhoria do DoR e DoD;
+• Gestão e melhoria de processos; 
+• Leadership Communication. CNV, Mediação de conflitos, Técnicas de facilitação,
+• Prática de feedback WRAP,
+• Priorização naquilo gera mais valor para o cliente/stakeholders.
 
 _____________________________________________
 
- - Experiência com a Metodologia Ágil, 
- - Conhecimento na utilização e aplicação do Scrum e Kanban 
- - Ferramentas de gerenciamento:  JIRA, Conflunce e Zephyr;  Azure DevOps e Test & Feedback
- - Experiência com Emuladores, DevTool, Figma
-
- - Experiência em definir boas práticas de qualidade envolvendo todo o time e garantindo os padrões estabelecidos;
- - Tenho conhecimento nos métodos de validação efetuando testes funcionais, testes de comportamento e layout;
- - Experiência em especificação de requisitos, regras de negócio e critérios de aceite; 
- - Experiência com a prática do BDD e Steps escritos em Gherkin;
- - Levantamento dos cenários e modelagem de casos de testes, além da construção e execução da massa de teste. 
- - Teste Exploratórios e Heurísticas de Teste; 
-
-● Grande experiência na gestão de defeitos.
- - BUG: Investigar a causa, Reproduzir a inconsistência e avaliar seu impacto: Reportar, Acompanhar, Retestar para assim fechar o ciclo. 
- - Reportar de modo claro e objetivo, classificando a complexidade da atividade, de forma que leve a solução; 
- - Evidênciar por meio de Print, Vídeos, Log e Har as inconsistências encontradas;
-
-● B2B e B2C
-● Seller/Admin, Marketplace/Admin, Marketplace/Front
-● Mobile (Android e iPhone), Desktop e Web (Emuladores)
-
-● Acadêmica do curso técnico em Análise e Desenvolvimento de Sistemas, desde Junho/2021.
-● Muito focada e crescendo em JAVA, mas principalmente em Python agora.
+- 💬 Contate-me no e-mail: leude.roure@gmail.com
+ 
