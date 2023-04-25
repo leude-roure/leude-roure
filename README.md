@@ -1,6 +1,6 @@
 ### Olá, sou a Leude👋
 
-- 🔭 Hoje trabalho como QA - desde Agosto de 2021
+- 🔭 Hoje atuo como Scrum Mastr  e trabalho em TI desdhe Agosto de 2021
 - 🌱 Estudando Python, HTML e JavaScript 
 -    Automação e2e em Cypress
 - 💬 Contate-me no e-mail: leude.roure@gmail.com
