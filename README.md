@@ -26,9 +26,9 @@
 
 • Prática de feedback WRAP,
 
-• Priorização naquilo gera mais valor para o cliente/stakeholders.
+• Priorização naquilo gera mais valor para o cli0ente/stakeholders.
 
--    Automação e2e em Cypress• Facilitação dos ritos do Scrum (Planning, Daily, Review, Retrospectiva, Refinamento);
+Facilitação dos ritos do Scrum (Planning, Daily, Review, Retrospectiva, Refinamento);
 
 • Facilitação de retrospectivas com foco na melhoria contínua no desenvolvimento;
 
