@@ -12,7 +12,7 @@ ________________________________________________________________
 
 ✅ Áreas de Experiência:
 
-• Facilitação dos ritos do Scrum (Sprint: Planning, Daily, Review, Retrospectiva) e Refinamento;
+🔲 Facilitação dos ritos do Scrum (Sprint: Planning, Daily, Review, Retrospectiva) e Refinamento;
 • Facilitação de retrospectivas criativas com foco na melhoria contínua, engajamento e eficácia do time;
 •.Treinamento e promoção de Worshop para entender a teoria e a prática de princípios e valores Scrum;
 •.Promoção dos valores ágeis junto a organização e remoção das barreiras entre stakeholders e time;
