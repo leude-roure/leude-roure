@@ -18,10 +18,11 @@ ________________________________________________________________
 •.Promoção dos valores ágeis junto a organização e remoção das barreiras entre stakeholders e time;
 • Facilitação do processo ágil do Scrum team;
 • Maximização do valor e trabalho em equipe: team building e Management 3.0 aplicada no dia a dia (aumento da interação e conexão equipe, empoderados, energizados, segurança pscicológica...);
-• Gestão, monitoramento e divulgação de métricas (Fluxo e Time)
+• Gestão, monitoramento e divulgação de métricas (Fluxo e Time);
 • Atuação em parceria com o time para melhoria do DoR e DoD;
-• Gestão e melhoria de processos; 
+• Gestão e melhoria de processos;
 • Comunicação: Leadership Communication. CNV, Mediação de conflitos, Técnicas de facilitação,
 • Prática de feedbacks:  WRAP, One on One (90º e 180º);
 • Priorização naquilo que gera mais valor para o cliente/stakeholders
 • Colaboração com o Product Owner e os stakeholders
+
