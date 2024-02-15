@@ -1,8 +1,8 @@
 ### Olá, sou a Leude👋
 
-- 🔭 Hoje atuo como Scrum Mastr  e trabalho em TI desde Agosto de 2021
-- 🌱  Linguagens  Python, HTML e JavaScript 
--  MBA  Gestão Ágil de Projetos e Agile Coach
+- ➡️ Hoje atuo como Scrum Master  e trabalho em TI desde Agosto de 2021
+- ➡️ PSMI | Management 3.0 | Kanban/Lean | Gestão Ágil de Projetos | Liderança | Projetos | CTFL
+- ➡️ MBA  Gestão Ágil de Projetos e Agile Coach
 -  🎓Graduação: Análise e Desenvolvimento de Sistemas
 -  🎓Pós-graduação: MBA-Gestão Ágil de Projetos e Agile Coach
 ________________________________________________________________
